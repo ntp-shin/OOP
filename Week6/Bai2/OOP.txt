@@ -1,8 +1,0 @@
-1. Intro giới thiệu. (phát)
-2. Khái niệm Design Pattern. (phát)
-3. 3 phần lớn - chọn cái đầu tiên. (Tường)
-4. Giới thiệu Factory Method.
-	+ Định nghĩa. (Tường)
-	+ Vấn đề.	(vũ)
-	+ Giải pháp.	(Vũ)
-5. Nêu ra ý tưởng và demo code. (Nhân)
